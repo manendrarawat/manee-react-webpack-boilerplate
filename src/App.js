@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 class App extends Component{
 
       render(){
@@ -8,7 +9,6 @@ class App extends Component{
             <div className="row">
             <h3>Webpack + React App Demo </h3>
             <div>Hello Manendra</div>
-            
             </div>
          </div>
        )
